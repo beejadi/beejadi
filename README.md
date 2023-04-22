@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Akshatha
-- 👀 I’m interested in programming,data analysis
-- 🌱 I’m currently doing PGP-DSBA Program by The McCombs School of Business at The University of Texas at Austin
+- 👋 Hi, I’m Akshatha B S
+- 👀 I’m interested in programming,data science
+- 🌱 I have done PGP-DSBA Program by The McCombs School of Business at The University of Texas at Austin
 - 📫 e-mail id:akshathabeejadi@gmail.com
 
 <!---
